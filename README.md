@@ -1,1 +1,1 @@
-# FullStackOpen-Part0
+# FullStackOpen Assignments
