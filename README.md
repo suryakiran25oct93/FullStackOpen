@@ -1,3 +1,2 @@
-# FullStackOpen 2021 Assignments
+# FullStackOpen 2021 PART 0 Assignment
 
-PART 0
